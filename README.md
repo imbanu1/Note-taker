@@ -1,7 +1,7 @@
 # Note-taker
 https://github.com/imbanu1/Note-taker
 https://drive.google.com/file/d/1mF9QH6pXLELO0Tre0Xg6yUDEyFYR13xE/view
-https://imbanu1.github.io/Note-taker/
+https://note-taker-x08m.onrender.com/
 
 GIVEN a note-taking application
 WHEN I open the Note Taker
